@@ -2,12 +2,12 @@
 A platform for developers to connect, share projects, and rate each other's work.
 Link:https://devsearch11.herokuapp.com/
 
-# Tech Stack
+## Tech Stack
 - Django
 - Postgres
 - Django REST Framework
 
-# Features
+## Features
 - Share Projects
 - Message other developers
 - Rate others work
